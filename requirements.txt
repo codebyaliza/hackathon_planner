@@ -1,0 +1,3 @@
+# Hackathon Planner Dependencies
+# Standard Python 3.10+
+streamlit>=1.30.0

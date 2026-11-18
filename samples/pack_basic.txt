@@ -1,0 +1,59 @@
+### Message 1
+From: organizer@hackathon.org
+Date: 2026-11-20
+Team, we are confirming the core logistics for the 4-hour mini-hackathon next month:
+- Total students registered: 40 participants
+- Team size: 4 members per team
+- Organizing staff on site: 6 people
+- Total approved budget limit: Rs 350000
+- Event duration: 4 hours
+- Event start time: 09:00
+
+---
+### Message 2
+From: venue_manager@campus.edu
+Date: 2026-11-21
+Here are our campus halls available on that date:
+1. Seminar Hall A: Capacity 35 people, rental fee Rs 40000, features: projector, fast wifi.
+2. Innovation Hall B: Capacity 60 people, rental fee Rs 85000, features: projector, fast wifi, power backup.
+3. Grand Auditorium: Capacity 150 people, rental fee Rs 220000, features: projector, audio system, stage.
+
+---
+### Message 3
+From: catering@delightfoods.com
+Date: 2026-11-21
+Salam organizers! Taqreeb ke khane ke options yeh hain:
+Option 1: Standard Biryani Box with cold drink @ Rs 1200 per person.
+Option 2: Executive Lunch Platter with kebab and sweet @ Rs 2200 per person.
+Dono options fresh serve honge.
+
+---
+### Message 4
+From: coordinator@judges.org
+Date: 2026-11-22
+Assalam o Alaikum, judging pool update:
+We have 5 judges confirmed available for this event.
+Each judge can review at most 4 teams.
+Each team pitch plus Q&A will take 8 minutes.
+Honorarium is Rs 8000 per judge.
+
+---
+### Message 5
+From: finance@hackathon.org
+Date: 2026-11-22
+Please account for our mandatory fixed expenses:
+- Badges, Lanyards and Signage: Rs 15000
+- Certificates and Prize Trophies: Rs 25000
+- Audio-Visual technician fee: Rs 10000
+
+---
+### Message 6
+From: student_society@campus.edu
+Date: 2026-11-22
+Hey team, students request agar possible ho to Red Bull energy drinks provide karden, cost approx Rs 12000.
+
+---
+### Message 7
+From: organizer@hackathon.org
+Date: 2026-11-23
+Please make sure there is a 15-minute prayer and coffee break scheduled mid-way through hacking time.

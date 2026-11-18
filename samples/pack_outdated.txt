@@ -1,0 +1,35 @@
+### Message 1
+From: organizer@hackathon.org
+Date: 2026-11-20
+Total students registered: 32 participants, team size: 4 members, staff on site: 4 people.
+Approved budget: Rs 300000, event hours: 4, start time: 09:00.
+
+---
+### Message 2
+From: venue_manager@campus.edu
+Date: 2026-11-21
+Hall Gamma available: Capacity 50 people, price Rs 60000, features: projector, fast wifi.
+
+---
+### Message 3
+From: catering@delightfoods.com
+Date: 2026-11-21
+Initial catering quote: Standard Meal Box @ Rs 1000 per head.
+
+---
+### Message 4
+From: coordinator@judges.org
+Date: 2026-11-22
+Judges available: 4 judges, max teams per judge: 3, 10 minutes per team, fee Rs 7500 per judge.
+
+---
+### Message 5
+From: catering@delightfoods.com
+Date: 2026-11-24
+Salam, inflation ki wajah se rate update hua hai: Standard Meal Box is now Rs 1300 per head.
+
+---
+### Message 6
+From: catering@delightfoods.com
+Date: 2026-11-19
+Old archive quotation: Standard Meal Box @ Rs 800 per head.

@@ -1,0 +1,35 @@
+### Message 1
+From: organizer@hackathon.org
+Date: 2026-11-20
+Total students registered: 40 participants, team size: 4 members, staff on site: 6 people.
+Approved budget: Rs 350000, event hours: 4, start time: 09:00.
+
+---
+### Message 2
+From: venue_manager@campus.edu
+Date: 2026-11-21
+Innovation Hall: Capacity 60 people, rental fee Rs 80000, features: projector, fast wifi.
+
+---
+### Message 3
+From: catering@delightfoods.com
+Date: 2026-11-21
+Standard Biryani Box @ Rs 1200 per person.
+
+---
+### Message 4
+From: coordinator@judges.org
+Date: 2026-11-22
+Judges available: 5, max teams per judge: 4, 8 minutes per team, honorarium Rs 8000 per judge.
+
+---
+### Message 5
+From: finance@hackathon.org
+Date: 2026-11-22
+Fixed cost: Badges and Signage amount Rs 15000.
+
+---
+### Message 6
+From: finance@hackathon.org
+Date: 2026-11-25
+Update on Badges and Signage fixed cost: upgraded materials increased this to Rs 22000.
